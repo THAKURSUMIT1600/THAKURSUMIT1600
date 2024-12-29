@@ -85,7 +85,10 @@ I'm a passionate and enthusiastic **🌐 Web Developer** and **💻 Aspiring Sof
 <br/>  
 
 ## 📈 GitHub Stats  
-<div align="center">  
+<div align="center"> 
+  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitthakur1600" alt="sumitthakur1600" /></a> </p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=SumitThakur1600&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitThakur1600&theme=radical&hide_border=true" align="center" />  
 </div>  
@@ -94,8 +97,9 @@ I'm a passionate and enthusiastic **🌐 Web Developer** and **💻 Aspiring Sof
 
 ## 📫 How to Reach Me  
 - **Portfolio:** [My Portfolio](https://portfoliosumit.vercel.app/)  
-- **LinkedIn:** [Sumit Thakur](www.linkedin.com/in/sumit-thakurr3)  
+- **LinkedIn:** [Sumit Thakur](https://www.linkedin.com/in/sumit-thakurr3/)  
 
 ---
 
-Feel free to let me know if you’d like further adjustments! 🚀
+
+
