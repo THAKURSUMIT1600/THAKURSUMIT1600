@@ -89,8 +89,10 @@ I'm a passionate and enthusiastic **🌐 Web Developer** and **💻 Aspiring Sof
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitthakur1600" alt="sumitthakur1600" /></a> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SumitThakur1600&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitThakur1600&theme=radical&hide_border=true" align="center" />  
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitthakur1600&show_icons=true&locale=en" alt="sumitthakur1600" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitthakur1600&" alt="sumitthakur1600" /></p>
 </div>  
 
 ---
