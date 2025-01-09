@@ -92,7 +92,7 @@ I'm a passionate and enthusiastic **🌐 Web Developer** and **💻 Aspiring Sof
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitthakur1600&show_icons=true&locale=en" alt="sumitthakur1600" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitthakur1600&" alt="sumitthakur1600" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitThakur1600&" alt="sumitthakur1600" /></p>
 </div>  
 
 ---
