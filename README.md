@@ -108,7 +108,7 @@
   <!-- GitHub Profile Stats -->
   <p align="center">
     <a href="https://github.com/THAKURSUMIT1600">
-      <img src="https://github-readme-stats.vercel.app/api?username=THAKURSUMIT1600&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=THAKURSUMIT1600&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=7200&v=1" />
     </a>
   </p>
 
