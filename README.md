@@ -39,10 +39,12 @@
 - **Learning TypeScript (a.k.a. adding errors to JavaScript on purpose). 😵**
 
 ## 🏆 Highlights and Achievements  
-- 🔹 **Full-Stack Developer** at **Bilvaleaf Private Limited**: Specializing in building scalable, high-performance web applications using modern technologies and best practices.  
-- 🔹 **Frontend Intern** at **Conatus Bharat**: Contributed to UI/UX design and development, enhancing the overall user experience and interface of web applications.  
-- 🔹 **Web Designer Intern** at **Enlightos**: Worked on the design and development of web platforms, including Substack and Hostinger, optimizing both functionality and user interaction.  
-- 🔹 **Developed and launched** multiple **web applications** using the **MERN stack & Next.js** (MongoDB, Express.js, React, Node.js, Next.js), ensuring seamless integration, optimized performance, and smooth user experiences across all platforms.  
+
+🔹 **Full‑Stack Developer** at **Sparkscale India**: Building feature‑rich, production‑ready web products end‑to‑end, from database design to responsive UIs, while mentoring junior teammates on best practices.  
+🔹 **Full‑Stack Developer** at **Bilvaleaf Private Limited**: Specializing in scalable, high‑performance web applications using modern technologies and best practices.  
+🔹 **Frontend Intern** at **Conatus Bharat**: Contributed to UI/UX design and development, enhancing the overall user experience and interface of web applications.  
+🔹 **Web Designer Intern** at **Enlightos**: Worked on the design and development of web platforms, including Substack and Hostinger, optimizing both functionality and user interaction.  
+🔹 **Developed and launched** multiple **web applications** using the **MERN stack & Next.js** (MongoDB, Express.js, React, Node.js, Next.js), ensuring seamless integration, optimized performance, and smooth user experiences across all platforms.
 
 ---  
 ## 🔥 Welcome to My World!
