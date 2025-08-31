@@ -107,19 +107,27 @@
 ## 📈 GitHub Stats  
 <div align="center"> 
 
-  <!-- GitHub Profile Stats -->
-  <p align="center">
-    <a href="https://github.com/THAKURSUMIT1600">
-      <img src="https://github-readme-stats.vercel.app/api?username=THAKURSUMIT1600&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=7200&v=1" />
-    </a>
-  </p>
+<!-- GitHub Profile Stats -->
+<p align="center">
+  <a href="https://github.com/THAKURSUMIT1600">
+    <img src="https://github-readme-stats.vercel.app/api?username=THAKURSUMIT1600&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
 
-  <!-- GitHub Trophies -->
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=THAKURSUMIT1600&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-    </a>
-  </p>
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <a href="https://github.com/THAKURSUMIT1600">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=THAKURSUMIT1600&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=THAKURSUMIT1600&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
 
   
 
