@@ -39,8 +39,10 @@
 - **Learning TypeScript (a.k.a. adding errors to JavaScript on purpose). 😵**
 
 ## 🏆 Highlights and Achievements  
+🔹**Software Develope**r at **Mobizo**: Leading backend and frontend development efforts for a next-generation logistics platform, architecting scalable APIs, implementing real-time tracking and bidding workflows, and ensuring seamless user experiences for both truck owners and customers through clean, maintainable, and production-ready code.
 
-🔹 **Full‑Stack Developer** at **Sparkscale India**: Building feature‑rich, production‑ready web products end‑to‑end, from database design to responsive UIs, while mentoring junior teammates on best practices.  
+
+🔹 **Software Developer** at **Sparkscale India**: Building feature‑rich, production‑ready web products end‑to‑end, from database design to responsive UIs, while mentoring junior teammates on best practices.  
 🔹 **Full‑Stack Developer** at **Bilvaleaf Private Limited**: Specializing in scalable, high‑performance web applications using modern technologies and best practices.  
 🔹 **Frontend Intern** at **Conatus Bharat**: Contributed to UI/UX design and development, enhancing the overall user experience and interface of web applications.  
 🔹 **Web Designer Intern** at **Enlightos**: Worked on the design and development of web platforms, including Substack and Hostinger, optimizing both functionality and user interaction.  
@@ -105,33 +107,20 @@
 <br/>  
 
 ## 📈 GitHub Stats  
-<div align="center"> 
 
-<!-- GitHub Profile Stats -->
-<p align="center">
-  <a href="https://github.com/THAKURSUMIT1600">
-    <img src="https://github-readme-stats.vercel.app/api?username=THAKURSUMIT1600&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
+<div align="center">
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <a href="https://github.com/THAKURSUMIT1600">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=THAKURSUMIT1600&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=thakursumit1600&show_icons=true&theme=dark&cache_seconds=1800" width="420" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://nirzak-streak-stats.vercel.app/?user=THAKURSUMIT1600&theme=dark&hide_border=false" width="420" />
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=THAKURSUMIT1600&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
+<br/><br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THAKURSUMIT1600&theme=dark&layout=compact" width="420" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-contributor-stats.vercel.app/api?username=THAKURSUMIT1600&limit=5&theme=dark&combine_all_yearly_contributions=true" width="420" />
 
-  
-
-</div>  
+</div>
 
 ## 📫 How to Reach Me  
 - **🚀 Portfolio:** [My Portfolio](https://portfoliosumit.vercel.app/) (Where my code lives rent-free)  
