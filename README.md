@@ -110,15 +110,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thakursumit1600&show_icons=true&theme=dark&cache_seconds=1800" width="420" />
-&nbsp;&nbsp;&nbsp;
+
 <img src="https://nirzak-streak-stats.vercel.app/?user=THAKURSUMIT1600&theme=dark&hide_border=false" width="420" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THAKURSUMIT1600&theme=dark&layout=compact" width="420" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-contributor-stats.vercel.app/api?username=THAKURSUMIT1600&limit=5&theme=dark&combine_all_yearly_contributions=true" width="420" />
 
 </div>
 
