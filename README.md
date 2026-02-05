@@ -109,7 +109,7 @@
 ## 📈 GitHub Stats  
 
 <div align="center">
-![GitFlex Widget](https://gitflex.in/api/view/22ec42ee-fd94-4b99-8d10-6c85ec2ce10f)
+<img src="https://gitflex.in/api/view/22ec42ee-fd94-4b99-8d10-6c85ec2ce10f" alt="GitFlex Widget" width="100%" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=THAKURSUMIT1600&theme=dark&hide_border=false" width="420" />
 
 </div>
