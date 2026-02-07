@@ -27,9 +27,6 @@
 ---
 ### 🔥 Eat. Sleep. Code. Repeat.
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
-</br>
-  </br>
   <img src="https://www.gitflex.in/api/view/66a8d1f3-35d3-4417-8405-d391dd15e1d7" alt="GitFlex Widget"/>
 </div>
 
@@ -112,9 +109,13 @@
 ## 📈 GitHub Stats  
 
 <div align="center">
-<img src="https://www.gitflex.in/api/view/22ec42ee-fd94-4b99-8d10-6c85ec2ce10f" alt="GitFlex Widget" />
+<img src="https://www.gitflex.in/api/view/13ed9969-69c2-4fc5-a85a-ec7f4829ba29" alt="GitFlex Widget" />
+</br>
 </br>
 <img src="https://www.gitflex.in/api/view/42f0aac8-2403-4166-9341-7b29549a55e0" alt="GitFlex Widget" />
+</br>
+</br>
+<img src="https://www.gitflex.in/api/view/22ec42ee-fd94-4b99-8d10-6c85ec2ce10f" alt="GitFlex Widget" />
 </div>
 
 ## 📫 How to Reach Me  
