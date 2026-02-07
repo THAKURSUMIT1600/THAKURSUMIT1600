@@ -109,14 +109,17 @@
 ## 📈 GitHub Stats  
 
 <div align="center">
-<img src="https://www.gitflex.in/api/view/13ed9969-69c2-4fc5-a85a-ec7f4829ba29" alt="GitFlex Widget" />
-</br>
-</br>
-<img src="https://www.gitflex.in/api/view/42f0aac8-2403-4166-9341-7b29549a55e0" alt="GitFlex Widget" />
-</br>
-</br>
-<img src="https://www.gitflex.in/api/view/22ec42ee-fd94-4b99-8d10-6c85ec2ce10f" alt="GitFlex Widget" />
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    <img src="https://www.gitflex.in/api/view/13ed9969-69c2-4fc5-a85a-ec7f4829ba29" alt="GitFlex Widget" />
+    <img src="https://www.gitflex.in/api/view/42f0aac8-2403-4166-9341-7b29549a55e0" alt="GitFlex Widget" />
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://www.gitflex.in/api/view/22ec42ee-fd94-4b99-8d10-6c85ec2ce10f" alt="GitFlex Widget" />
+    <img src="https://www.gitflex.in/api/view/65044b08-3aec-474c-815f-96a45196a2af" alt="GitFlex Widget" />
+  </div>
 </div>
+
 
 ## 📫 How to Reach Me  
 - **🚀 Portfolio:** [My Portfolio](https://portfoliosumit.vercel.app/) (Where my code lives rent-free)  
