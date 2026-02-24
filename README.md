@@ -75,7 +75,7 @@
 
 
 ## 📫 How to Reach Me  
-- **🚀 Portfolio:** [My Portfolio](https://portfoliosumit.vercel.app/) (Where my code lives rent-free)  
+- **🚀 Portfolio:** [My Portfolio](https://sumitthakur.vercel.app/) (Where my code lives rent-free)  
 - **💼 LinkedIn:** [Sumit Thakur](https://www.linkedin.com/in/sumit-thakurr3/) (Let's connect before robots take over)  
 
 ### 🎉 **Random Developer Wisdom**  
